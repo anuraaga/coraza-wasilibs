@@ -7,7 +7,7 @@ require (
 	github.com/magefile/mage v1.15.1-0.20230912152418-9f54e0f83e2a
 	github.com/wasilibs/go-aho-corasick v0.6.0
 	github.com/wasilibs/go-libinjection v0.5.0
-	github.com/wasilibs/go-re2 v1.7.1-0.20241128042914-1bb97936d848
+	github.com/wasilibs/go-re2 v1.8.0
 	golang.org/x/sync v0.7.0
 )
 
